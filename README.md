@@ -220,4 +220,4 @@ This framework documentation maintains compatibility with:
 
 ---
 
-*This document serves as the foundational specification for the Nsibidi Language Model framework, balancing technical innovation with cultural preservation responsibilities.*
+*This document serves as the foundational specification for the Nsibidi Language Model framework, balancing technical innovation with cultural preservation responsibilities.*# nlm_framwork
