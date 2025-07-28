@@ -1,4 +1,4 @@
-e# Nsibidi Language Model (NLM) Framework
+# Nsibidi Language Model (NLM) Framework
 
 **Author:** Nnamdi Okpala  
 **Version:** 1.0  
