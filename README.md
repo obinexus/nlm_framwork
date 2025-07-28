@@ -7,7 +7,7 @@
 ---
 
 ## Overview
-
+![./images/xyz_grammer](XYZ Grammer Model)
 The Nsibidi Language Model (NLM) is a computational framework that preserves traditional Igbo ideographic writing systems while enabling modern digital applications. This system uses a three-dimensional coordinate approach to map language concepts across fictional-to-factual, informal-to-formal, and evolutionary dimensions.
 
 ### Core Architecture
